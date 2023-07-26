@@ -1,0 +1,4 @@
+
+RUN pip install jupyterlab
+RUN pip install numpy
+RUN pip install pandas
